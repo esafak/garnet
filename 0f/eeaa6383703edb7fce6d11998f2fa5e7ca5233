@@ -1,0 +1,14 @@
+Version.props
+  h_ea91e2db23540f 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "0feeaa6383703edb7fce6d11998f2fa5e7ca5233",
+  "prompts": {},
+  "humans": {
+    "h_ea91e2db23540f": {
+      "author": "Emre Şafak <3928300+esafak@users.noreply.github.com>"
+    }
+  }
+}
